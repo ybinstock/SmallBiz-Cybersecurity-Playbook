@@ -37,3 +37,10 @@ Temporary pauses require VP‑Engineering approval.
 
 7. Revision History
 2025‑06‑04 v1.0.
+
+
+| Framework     | Relevant controls                                                                            |
+| ------------- | -------------------------------------------------------------------------------------------- |
+| **NIST CSF**  | PR.IP‑4 (Backup), PR.IP‑9 (Testing), PR.DS‑4 (Encrypt at Rest), RC.CO‑1 & RC.CO‑2 (Recovery) |
+| **CIS v8**    | 11.1 – 11.5 (Data Recovery), 12.7 (Encrypted Storage), 12.10 (Immutable Backups)             |
+| **ISO 27001** | 8.5 (Backup), 8.14 (Redundancy), 8.26 (BC/DR), 5.30 (ICT Readiness)                          |
