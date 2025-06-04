@@ -42,3 +42,10 @@ Submit Jira ticket with business justification; CISO approves ≤30 days, rene
 7. Revision History
 Date	Version	Author	Notes
 2025‑06‑04	1.0	Y. Binstock	Initial draft
+
+
+
+Framework	Relevant controls
+NIST CSF 1.1	ID.AM‑1, ID.AM‑2, PR.AC‑1, PR.AC‑3, PR.DS‑1
+CIS Controls v8	1.1 – 1.4 (Asset Inventory), 2.1 – 2.3 (Software Inventory), 4.2 (Restrict Admin Priv), 5.1 (Secure Config), 8.2 (Data Classification)
+ISO/IEC 27001:2022	5.9 (Acceptable Use), 5.10 (Return of Assets), 5.11 (Access Control), 8.9 (Configuration Mgmt), 8.12 (Data Leakage Prevention)
