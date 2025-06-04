@@ -38,3 +38,10 @@ Documented in access‑review tool; Security Lead signs off.
 7. Revision History
 2025‑06‑04 v1.0 – Initial.
 
+
+| Framework     | Relevant controls                                                                     |
+| ------------- | ------------------------------------------------------------------------------------- |
+| **NIST CSF**  | PR.AC‑1 → PR.AC‑6 (Access), PR.AC‑7 (Least Priv), PR.PT‑3 (CUI), DE.CM‑1 (Monitoring) |
+| **CIS v8**    | 4.1 – 4.12 (Account Mgmt), 6.3 (MFA), 6.7 (SSO), 6.8 (Just‑in‑Time)                   |
+| **ISO 27001** | 5.11 (Access Control), 5.15 (Identity Mgmt), 8.8 (User Endpoints)                     |
+
