@@ -7,15 +7,7 @@
 
 ---
 
-## 🗺️ What’s inside?
-| Folder / file | Purpose |
-|---|---|
-| **/docs/policies/** | Five Markdown policies (AUP, IAM, SDLC, IR, DR) + embedded control maps |
-| **/docs/diagrams/** | PNG diagrams: Swim‑lane IR workflow & RACI matrix |
-| **/docs/templates/** | Blank risk‑register & PIR template (coming soon) |
-| **LICENSE** | MIT—fork & adapt freely |
 
----
 
 ## 📄 Policy overview
 
