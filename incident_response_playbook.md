@@ -41,3 +41,11 @@ None; IR process applies company‑wide.
 
 7. Revision History
 2025‑06‑04 v1.0.
+
+
+   | Framework     | Relevant controls                                                                                                           |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **NIST CSF**  | DE.CM‑2, DE.CM‑4 (Detection), RS.RP‑1 (Response Planning), RS.CO‑2 (Comms), RS.MI‑3 (Mitigation), RC.IM‑1 (Lessons Learned) |
+| **CIS v8**    | 17.1 – 17.12 (IR Mgmt), 18.1 (Test IR Plan)                                                                                 |
+| **ISO 27001** | 5.24 (Threat Intel), 5.27 (Incident Mgmt), 5.28 (Lessons Learned)                                                           |
+
