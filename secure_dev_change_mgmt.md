@@ -37,3 +37,10 @@ Critical hotfixes may bypass certain gates with post‑mortem in 48 h.
 
 7. Revision History
 2025‑06‑04 v1.0.
+
+
+| Framework     | Relevant controls                                                                           |
+| ------------- | ------------------------------------------------------------------------------------------- |
+| **NIST CSF**  | PR.IP‑3 (Config Mgmt), PR.IP‑8 (Dev Practices), PR.DS‑7 (Code Integrity), DE.CM‑8 (Logging) |
+| **CIS v8**    | 4.4 (Review/Approve Code), 5.3 (Secure Config Baselines), 6.1 (Vuln Mgmt), 16.11 (SBOM)     |
+| **ISO 27001** | 5.36 (Secure Coding), 8.9 (Config Mgmt), 8.28 (Change Mgmt), 8.25 (Secure Development)      |
